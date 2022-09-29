@@ -1,14 +1,13 @@
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=canokaraca&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=canokaraca&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=canokaraca&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 # 💫About Me :
 - 👋 Hi, I’m @CanoKaraca
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 You can reach me in discord or instagram
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=canokaraca&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=canokaraca&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=canokaraca&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/k3xUYhfHRk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/can__karaca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCRxrWwrJSLYxQOVMd03r4Pw) 
