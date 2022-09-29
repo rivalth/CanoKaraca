@@ -18,4 +18,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=canokaraca&icon=2&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=canokaraca&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
