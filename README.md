@@ -1,5 +1,4 @@
 # 💫About Me :
-- 👋 Hi, I’m @CanoKaraca
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 You can reach me in discord or instagram
