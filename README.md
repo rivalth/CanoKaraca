@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 📫 You can reach me in discord or instagram
+- 📫 You can reach me in discord, instagram or twitter
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=canokaraca&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
